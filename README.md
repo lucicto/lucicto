@@ -2,7 +2,7 @@
 I’m currently a Student going to graduate in May 2024.<br>I’m interested and looking for software developing jobs.<br>Ask me about anything you want to know about me.<br><br>
 
 # 📑Here's My Portfolio:
-[![Portfolio](https://cdn.iconscout.com/icon/free/png-512/free-portfolio-website-6764331-5565151.png?f=webp&w=256)]((https://lucicto-portfolio.netlify.app/)
+[![Portfolio](https://cdn.iconscout.com/icon/free/png-512/free-portfolio-website-6764331-5565151.png?f=webp&w=256)](https://lucicto-portfolio.netlify.app/)
 
 
 # 🌐 Socials:
