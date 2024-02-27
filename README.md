@@ -2,7 +2,8 @@
 I’m currently a Student going to graduate in May 2024.<br>I’m interested and looking for software developing jobs.<br>Ask me about anything you want to know about me.<br><br>
 
 # 📑Here's My Portfolio:
-https://lucicto-portfolio.netlify.app/
+[![Portfolio](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)]([https://x.com/lucicto](https://lucicto-portfolio.netlify.app/)) 
+
 
 
 # 🌐 Socials:
