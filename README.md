@@ -1,6 +1,9 @@
 # 💫 About Me:
 I’m currently a Student going to graduate in May 2024.<br>I’m interested and looking for software developing jobs.<br>Ask me about anything you want to know about me.<br><br>
 
+# 📑Here's My Portfolio:
+https://lucicto-portfolio.netlify.app/
+
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucicto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucicto-d-selva) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lucicto) 
