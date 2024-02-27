@@ -17,5 +17,3 @@ I’m currently a Student going to graduate in May 2024.<br>I’m interested and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucicto&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
